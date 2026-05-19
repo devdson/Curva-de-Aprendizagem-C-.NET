@@ -1,0 +1,14 @@
+/home/davidson/dev/Curso/Aula08/obj/Debug/net9.0/Aula08.GeneratedMSBuildEditorConfig.editorconfig
+/home/davidson/dev/Curso/Aula08/obj/Debug/net9.0/Aula08.AssemblyInfoInputs.cache
+/home/davidson/dev/Curso/Aula08/obj/Debug/net9.0/Aula08.AssemblyInfo.cs
+/home/davidson/dev/Curso/Aula08/obj/Debug/net9.0/Aula08.csproj.CoreCompileInputs.cache
+/home/davidson/dev/Curso/Aula08/bin/Debug/net9.0/Aula08
+/home/davidson/dev/Curso/Aula08/bin/Debug/net9.0/Aula08.deps.json
+/home/davidson/dev/Curso/Aula08/bin/Debug/net9.0/Aula08.runtimeconfig.json
+/home/davidson/dev/Curso/Aula08/bin/Debug/net9.0/Aula08.dll
+/home/davidson/dev/Curso/Aula08/bin/Debug/net9.0/Aula08.pdb
+/home/davidson/dev/Curso/Aula08/obj/Debug/net9.0/Aula08.dll
+/home/davidson/dev/Curso/Aula08/obj/Debug/net9.0/refint/Aula08.dll
+/home/davidson/dev/Curso/Aula08/obj/Debug/net9.0/Aula08.pdb
+/home/davidson/dev/Curso/Aula08/obj/Debug/net9.0/Aula08.genruntimeconfig.cache
+/home/davidson/dev/Curso/Aula08/obj/Debug/net9.0/ref/Aula08.dll
