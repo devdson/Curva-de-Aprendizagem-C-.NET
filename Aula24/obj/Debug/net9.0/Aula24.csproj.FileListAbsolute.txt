@@ -1,0 +1,14 @@
+/home/davidson/dev/Curso/Aula24/obj/Debug/net9.0/Aula24.GeneratedMSBuildEditorConfig.editorconfig
+/home/davidson/dev/Curso/Aula24/obj/Debug/net9.0/Aula24.AssemblyInfoInputs.cache
+/home/davidson/dev/Curso/Aula24/obj/Debug/net9.0/Aula24.AssemblyInfo.cs
+/home/davidson/dev/Curso/Aula24/obj/Debug/net9.0/Aula24.csproj.CoreCompileInputs.cache
+/home/davidson/dev/Curso/Aula24/bin/Debug/net9.0/Aula24
+/home/davidson/dev/Curso/Aula24/bin/Debug/net9.0/Aula24.deps.json
+/home/davidson/dev/Curso/Aula24/bin/Debug/net9.0/Aula24.runtimeconfig.json
+/home/davidson/dev/Curso/Aula24/bin/Debug/net9.0/Aula24.dll
+/home/davidson/dev/Curso/Aula24/bin/Debug/net9.0/Aula24.pdb
+/home/davidson/dev/Curso/Aula24/obj/Debug/net9.0/Aula24.dll
+/home/davidson/dev/Curso/Aula24/obj/Debug/net9.0/refint/Aula24.dll
+/home/davidson/dev/Curso/Aula24/obj/Debug/net9.0/Aula24.pdb
+/home/davidson/dev/Curso/Aula24/obj/Debug/net9.0/Aula24.genruntimeconfig.cache
+/home/davidson/dev/Curso/Aula24/obj/Debug/net9.0/ref/Aula24.dll

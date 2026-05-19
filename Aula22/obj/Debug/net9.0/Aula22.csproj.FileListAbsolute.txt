@@ -1,0 +1,14 @@
+/home/davidson/dev/Curso/Aula22/bin/Debug/net9.0/Aula22
+/home/davidson/dev/Curso/Aula22/bin/Debug/net9.0/Aula22.deps.json
+/home/davidson/dev/Curso/Aula22/bin/Debug/net9.0/Aula22.runtimeconfig.json
+/home/davidson/dev/Curso/Aula22/bin/Debug/net9.0/Aula22.dll
+/home/davidson/dev/Curso/Aula22/bin/Debug/net9.0/Aula22.pdb
+/home/davidson/dev/Curso/Aula22/obj/Debug/net9.0/Aula22.GeneratedMSBuildEditorConfig.editorconfig
+/home/davidson/dev/Curso/Aula22/obj/Debug/net9.0/Aula22.AssemblyInfoInputs.cache
+/home/davidson/dev/Curso/Aula22/obj/Debug/net9.0/Aula22.AssemblyInfo.cs
+/home/davidson/dev/Curso/Aula22/obj/Debug/net9.0/Aula22.csproj.CoreCompileInputs.cache
+/home/davidson/dev/Curso/Aula22/obj/Debug/net9.0/Aula22.dll
+/home/davidson/dev/Curso/Aula22/obj/Debug/net9.0/refint/Aula22.dll
+/home/davidson/dev/Curso/Aula22/obj/Debug/net9.0/Aula22.pdb
+/home/davidson/dev/Curso/Aula22/obj/Debug/net9.0/Aula22.genruntimeconfig.cache
+/home/davidson/dev/Curso/Aula22/obj/Debug/net9.0/ref/Aula22.dll
