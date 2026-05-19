@@ -1,0 +1,4 @@
+/home/davidson/dev/Curso/Aula19/obj/Debug/net9.0/Aula19.GeneratedMSBuildEditorConfig.editorconfig
+/home/davidson/dev/Curso/Aula19/obj/Debug/net9.0/Aula19.AssemblyInfoInputs.cache
+/home/davidson/dev/Curso/Aula19/obj/Debug/net9.0/Aula19.AssemblyInfo.cs
+/home/davidson/dev/Curso/Aula19/obj/Debug/net9.0/Aula19.csproj.CoreCompileInputs.cache
