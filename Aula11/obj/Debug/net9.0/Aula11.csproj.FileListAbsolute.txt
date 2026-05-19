@@ -1,0 +1,14 @@
+/home/davidson/dev/Curso/Aula11/bin/Debug/net9.0/Aula11
+/home/davidson/dev/Curso/Aula11/bin/Debug/net9.0/Aula11.deps.json
+/home/davidson/dev/Curso/Aula11/bin/Debug/net9.0/Aula11.runtimeconfig.json
+/home/davidson/dev/Curso/Aula11/bin/Debug/net9.0/Aula11.dll
+/home/davidson/dev/Curso/Aula11/bin/Debug/net9.0/Aula11.pdb
+/home/davidson/dev/Curso/Aula11/obj/Debug/net9.0/Aula11.GeneratedMSBuildEditorConfig.editorconfig
+/home/davidson/dev/Curso/Aula11/obj/Debug/net9.0/Aula11.AssemblyInfoInputs.cache
+/home/davidson/dev/Curso/Aula11/obj/Debug/net9.0/Aula11.AssemblyInfo.cs
+/home/davidson/dev/Curso/Aula11/obj/Debug/net9.0/Aula11.csproj.CoreCompileInputs.cache
+/home/davidson/dev/Curso/Aula11/obj/Debug/net9.0/Aula11.dll
+/home/davidson/dev/Curso/Aula11/obj/Debug/net9.0/refint/Aula11.dll
+/home/davidson/dev/Curso/Aula11/obj/Debug/net9.0/Aula11.pdb
+/home/davidson/dev/Curso/Aula11/obj/Debug/net9.0/Aula11.genruntimeconfig.cache
+/home/davidson/dev/Curso/Aula11/obj/Debug/net9.0/ref/Aula11.dll
