@@ -1,0 +1,14 @@
+/home/davidson/dev/Curso/Ex05/obj/Debug/net9.0/Ex05.GeneratedMSBuildEditorConfig.editorconfig
+/home/davidson/dev/Curso/Ex05/obj/Debug/net9.0/Ex05.AssemblyInfoInputs.cache
+/home/davidson/dev/Curso/Ex05/obj/Debug/net9.0/Ex05.AssemblyInfo.cs
+/home/davidson/dev/Curso/Ex05/obj/Debug/net9.0/Ex05.csproj.CoreCompileInputs.cache
+/home/davidson/dev/Curso/Ex05/bin/Debug/net9.0/Ex05
+/home/davidson/dev/Curso/Ex05/bin/Debug/net9.0/Ex05.deps.json
+/home/davidson/dev/Curso/Ex05/bin/Debug/net9.0/Ex05.runtimeconfig.json
+/home/davidson/dev/Curso/Ex05/bin/Debug/net9.0/Ex05.dll
+/home/davidson/dev/Curso/Ex05/bin/Debug/net9.0/Ex05.pdb
+/home/davidson/dev/Curso/Ex05/obj/Debug/net9.0/Ex05.dll
+/home/davidson/dev/Curso/Ex05/obj/Debug/net9.0/refint/Ex05.dll
+/home/davidson/dev/Curso/Ex05/obj/Debug/net9.0/Ex05.pdb
+/home/davidson/dev/Curso/Ex05/obj/Debug/net9.0/Ex05.genruntimeconfig.cache
+/home/davidson/dev/Curso/Ex05/obj/Debug/net9.0/ref/Ex05.dll
